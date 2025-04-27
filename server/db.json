@@ -1,0 +1,382 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+      "year": 1925,
+      "genre": "Classic",
+      "coverUrl": "/covers/gatsby.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian social science fiction novel and cautionary tale.",
+      "year": 1949,
+      "genre": "Science Fiction",
+      "coverUrl": "/covers/1984.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "The story of racial injustice and the loss of innocence in the American South.",
+      "year": 1960,
+      "genre": "Fiction",
+      "coverUrl": "/covers/mockingbird.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel of manners that satirizes 19th century society.",
+      "year": 1813,
+      "genre": "Romance",
+      "coverUrl": "/covers/pride.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "The story of teenage protagonist Holden Caulfield's three days in New York City.",
+      "year": 1951,
+      "genre": "Fiction",
+      "coverUrl": "/covers/catcher.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "description": "A novel about a group of British boys stuck on an uninhabited island.",
+      "year": 1954,
+      "genre": "Fiction",
+      "coverUrl": "/covers/lord.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "The adventure of Bilbo Baggins, a hobbit who embarks on a quest.",
+      "year": 1937,
+      "genre": "Fantasy",
+      "coverUrl": "/covers/hobbit.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 8,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "A dystopian social science fiction novel and cautionary tale.",
+      "year": 1932,
+      "genre": "Science Fiction",
+      "coverUrl": "/covers/brave.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about a young Andalusian shepherd.",
+      "year": 1988,
+      "genre": "Fiction",
+      "coverUrl": "/covers/alchemist.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 10,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "description": "The multi-generational story of the Buendía family.",
+      "year": 1967,
+      "genre": "Magical Realism",
+      "coverUrl": "/covers/solitude.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "description": "A horror novel about a family's stay at an isolated hotel.",
+      "year": 1977,
+      "genre": "Horror",
+      "coverUrl": "/covers/shining.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "A mystery thriller novel about a murder in the Louvre Museum.",
+      "year": 2003,
+      "genre": "Mystery",
+      "coverUrl": "/covers/davinci.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 13,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "A philosophical novel about a young man's portrait that ages instead of him.",
+      "year": 1890,
+      "genre": "Gothic Fiction",
+      "coverUrl": "/covers/dorian.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "description": "A novel about the moral dilemmas of Raskolnikov.",
+      "year": 1866,
+      "genre": "Psychological Fiction",
+      "coverUrl": "/covers/crime.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 15,
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "description": "The story of an old Cuban fisherman and his struggle with a giant marlin.",
+      "year": 1952,
+      "genre": "Fiction",
+      "coverUrl": "/covers/oldman.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "description": "A series of fantasy novels about the magical land of Narnia.",
+      "year": 1950,
+      "genre": "Fantasy",
+      "coverUrl": "/covers/narnia.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 17,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "description": "A dystopian novel about a totalitarian society.",
+      "year": 1985,
+      "genre": "Dystopian",
+      "coverUrl": "/covers/handmaid.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "description": "The story of Kvothe, a legendary musician and magician.",
+      "year": 2007,
+      "genre": "Fantasy",
+      "coverUrl": "/covers/wind.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": 19,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "description": "A science fiction novel about an astronaut stranded on Mars.",
+      "year": 2011,
+      "genre": "Science Fiction",
+      "coverUrl": "/covers/martian.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "description": "A fantasy novel about a mysterious circus that only opens at night.",
+      "year": 2011,
+      "genre": "Fantasy",
+      "coverUrl": "/covers/circus.jpg",
+      "isFavorite": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "userName": "John Doe",
+      "text": "A masterpiece of American literature. The prose is beautiful and the story is timeless.",
+      "rating": 5,
+      "date": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "bookId": 1,
+      "userName": "Jane Smith",
+      "text": "While well-written, I found the characters somewhat unrelatable.",
+      "rating": 3,
+      "date": "2024-03-14T15:30:00Z"
+    },
+    {
+      "id": 3,
+      "bookId": 2,
+      "userName": "Mike Johnson",
+      "text": "A prophetic novel that remains relevant today. Absolutely brilliant.",
+      "rating": 5,
+      "date": "2024-03-13T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "bookId": 2,
+      "userName": "Sarah Wilson",
+      "text": "The world-building is incredible. A must-read for any sci-fi fan.",
+      "rating": 4,
+      "date": "2024-03-12T14:20:00Z"
+    },
+    {
+      "id": 5,
+      "bookId": 3,
+      "userName": "David Brown",
+      "text": "One of the most important books ever written. A powerful message about justice and equality.",
+      "rating": 5,
+      "date": "2024-03-11T11:45:00Z"
+    },
+    {
+      "id": 6,
+      "bookId": 4,
+      "userName": "Emily Davis",
+      "text": "A delightful romance with sharp social commentary. Jane Austen at her best.",
+      "rating": 5,
+      "date": "2024-03-10T16:00:00Z"
+    },
+    {
+      "id": 7,
+      "bookId": 5,
+      "userName": "Robert Taylor",
+      "text": "A classic coming-of-age story that still resonates with readers today.",
+      "rating": 4,
+      "date": "2024-03-09T13:30:00Z"
+    },
+    {
+      "id": 8,
+      "bookId": 6,
+      "userName": "Lisa Anderson",
+      "text": "A dark and powerful exploration of human nature. Not for the faint of heart.",
+      "rating": 4,
+      "date": "2024-03-08T10:15:00Z"
+    },
+    {
+      "id": 9,
+      "bookId": 7,
+      "userName": "Tom Wilson",
+      "text": "A perfect introduction to Tolkien's world. Engaging and magical.",
+      "rating": 5,
+      "date": "2024-03-07T15:45:00Z"
+    },
+    {
+      "id": 10,
+      "bookId": 8,
+      "userName": "Mary Johnson",
+      "text": "A thought-provoking dystopian novel that feels increasingly relevant.",
+      "rating": 4,
+      "date": "2024-03-06T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "bookId": 9,
+      "userName": "James Smith",
+      "text": "An inspiring journey of self-discovery. Beautifully written.",
+      "rating": 5,
+      "date": "2024-03-05T09:30:00Z"
+    },
+    {
+      "id": 12,
+      "bookId": 10,
+      "userName": "Patricia Brown",
+      "text": "A masterpiece of magical realism. The storytelling is incredible.",
+      "rating": 5,
+      "date": "2024-03-04T14:15:00Z"
+    },
+    {
+      "id": 13,
+      "bookId": 11,
+      "userName": "Michael Davis",
+      "text": "A classic horror novel that still manages to be terrifying.",
+      "rating": 4,
+      "date": "2024-03-03T11:00:00Z"
+    },
+    {
+      "id": 14,
+      "bookId": 12,
+      "userName": "Jennifer Wilson",
+      "text": "A fast-paced thriller that keeps you guessing until the end.",
+      "rating": 4,
+      "date": "2024-03-02T16:30:00Z"
+    },
+    {
+      "id": 15,
+      "bookId": 13,
+      "userName": "William Taylor",
+      "text": "A fascinating exploration of vanity and morality. Wilde's wit is unmatched.",
+      "rating": 5,
+      "date": "2024-03-01T13:45:00Z"
+    },
+    {
+      "id": 16,
+      "bookId": 14,
+      "userName": "Elizabeth Anderson",
+      "text": "A profound psychological novel that delves deep into the human psyche.",
+      "rating": 5,
+      "date": "2024-02-29T10:30:00Z"
+    },
+    {
+      "id": 17,
+      "bookId": 15,
+      "userName": "Richard Wilson",
+      "text": "A simple yet powerful story about man's struggle against nature.",
+      "rating": 4,
+      "date": "2024-02-28T15:00:00Z"
+    },
+    {
+      "id": 18,
+      "bookId": 16,
+      "userName": "Susan Johnson",
+      "text": "A magical series that captures the imagination of readers of all ages.",
+      "rating": 5,
+      "date": "2024-02-27T12:15:00Z"
+    },
+    {
+      "id": 19,
+      "bookId": 17,
+      "userName": "Daniel Brown",
+      "text": "A powerful dystopian novel that feels more relevant with each passing year.",
+      "rating": 5,
+      "date": "2024-02-26T09:45:00Z"
+    },
+    {
+      "id": 20,
+      "bookId": 18,
+      "userName": "Nancy Davis",
+      "text": "An epic fantasy with beautiful prose and complex characters.",
+      "rating": 5,
+      "date": "2024-02-25T14:30:00Z"
+    },
+    {
+      "id": 21,
+      "bookId": 19,
+      "userName": "Thomas Wilson",
+      "text": "A thrilling survival story with great attention to scientific detail.",
+      "rating": 4,
+      "date": "2024-02-24T11:15:00Z"
+    },
+    {
+      "id": 22,
+      "bookId": 20,
+      "userName": "Margaret Taylor",
+      "text": "A magical and atmospheric novel that transports you to another world.",
+      "rating": 5,
+      "date": "2024-02-23T16:45:00Z"
+    }
+  ]
+} 
