@@ -39,6 +39,9 @@ export default {
 </script>
 
 <style scoped>
+h2 {
+  margin-bottom: 16px;
+}
 .books-container {
   display: flex;
   flex-wrap: wrap;
